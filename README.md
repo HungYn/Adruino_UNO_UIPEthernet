@@ -15,15 +15,16 @@
 ***
 ## 使用到的函式庫
 
-![LiquidCrystal_I2C.h](https://github.com/johnrickman/LiquidCrystal_I2C)
+![LiquidCrystal_I2C.h](https://github.com/johnrickman/LiquidCrystal_I2C) 
+  
+![UIPEthernet.h](https://github.com/UIPEthernet/UIPEthernet) 
+  
+![DHT.h](https://github.com/adafruit/DHT-sensor-library) 
 
-![UIPEthernet.h](https://github.com/UIPEthernet/UIPEthernet)
-
-![DHT.h](https://github.com/adafruit/DHT-sensor-library)
 
 ***
 ## 以下連結為程式碼及接方式
 
-**1. ![UNO_UIPEthernet_Mqtt](https://github.com/HungYn/Adruino_UNO_UIPEthernet/tree/main/UNO_UIPEthernet_Mqtt)**
+**1\.![UNO_UIPEthernet_Mqtt](https://github.com/HungYn/Adruino_UNO_UIPEthernet/tree/main/UNO_UIPEthernet_Mqtt)**
 
-**2. ![UNO_UIPEthernet_Html](https://github.com/HungYn/Adruino_UNO_UIPEthernet/tree/main/UNO_UIPEthernet_html)**
+**2\.![UNO_UIPEthernet_Html](https://github.com/HungYn/Adruino_UNO_UIPEthernet/tree/main/UNO_UIPEthernet_html)**
