@@ -1,6 +1,6 @@
-## Adruino_UNO_UIPEthernet
+# Adruino_UNO_UIPEthernet
 
-# 材料:
+## 材料:
 ***
 Arduino Uno R3
 USB 傳輸線
@@ -11,6 +11,7 @@ LCD2004 I2C 顯示模組
 LED * 4
 
 ***
+## 以下連結為程式碼及接方式
 
 **1. [UNO_UIPEthernet_Mqtt](https://github.com/HungYn/Adruino_UNO_UIPEthernet/tree/main/UNO_UIPEthernet_Mqtt)**
 
