@@ -17,6 +17,9 @@
 
 ![LiquidCrystal_I2C.h](https://github.com/johnrickman/LiquidCrystal_I2C)
 
+![UIPEthernet.h](https://github.com/UIPEthernet/UIPEthernet)
+
+![DHT.h](https://github.com/adafruit/DHT-sensor-library)
 
 ***
 ## 以下連結為程式碼及接方式
