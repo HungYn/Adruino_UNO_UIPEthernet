@@ -1,7 +1,7 @@
 # Adruino_UNO_UIPEthernet
 
 ## 材料:
-***
+
 Arduino Uno R3
 USB 傳輸線
 DHT11模組
@@ -10,6 +10,7 @@ LCD2004 I2C 顯示模組
 杜邦線
 LED * 4
 
+***
 
 ## 以下連結為程式碼及接方式
 
